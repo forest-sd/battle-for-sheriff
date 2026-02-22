@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://battle-for-sheriff.pages.dev/sitemap.xml
+Sitemap: https://battle-for-sheriff.com/sitemap.xml
