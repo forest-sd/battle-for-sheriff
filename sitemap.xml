@@ -31,4 +31,10 @@
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://battle-for-sheriff.com/posts/building-campaign-strategy-win-sheriff-election/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
